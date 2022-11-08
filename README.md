@@ -1,17 +1,15 @@
 # Quantum Open Source Software Survey
 Repository with aggregated and anonymized data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey.
 
-Both surveys could be completed at:
+The surveys were available at the following URLs:
 
 - https://www.surveymonkey.com/r/qoss
 - https://www.surveymonkey.com/r/qoss_diversity
 
 ## 2022 Results
-The folder `2022/QOSS software` contains results of the survey for the main software survey, with aggregated data in xlsx, csv and pdf format.
+The folder [`2022/QOSS software`](./2022/QOSS%20software/) contains results of the survey for the main software survey, with aggregated data in xlsx, csv and pdf format.
 
-The folder `2022/QOSS D&I` contains results of the survey for the Diversity & Inclusion survey, with aggregated data in xlsx, csv and pdf format.
-
-The folder `2022` also contains a pdf version of the slides presenting the results, `QOSS & D&I Survey Results - Slides.pdf`.
+The folder [`2022`](./2022/) also contains a pdf version of the slides presenting the results, [`QOSS & D&I Survey Results - Slides.pdf`](2022/QOSS%20&%20D&I%20Survey%20Results%20-%20Slides.pdf).
 
 ## Methodology
 The quantum OSS projects listed in the software survey have been chosen among those with >50 stars on Github/GitLab included in the awesome-quantum-software list and other lists, excluding software focusing on tutorials, cryptography, experiments. The software projects and platforms have been divided in three categories: cloud services; software for full-stack development and simulator; application tools.
