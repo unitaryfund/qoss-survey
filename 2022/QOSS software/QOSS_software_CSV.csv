@@ -1,0 +1,625 @@
+Quantum Open Source Software Survey
+
+"Q1. By continuing, you accept to the terms of the privacy policy and data protection above."
+Answer Choices,Response Percent,Responses
+Yes,99.03%,818
+No,0.97%,8
+,Answered,826
+,Skipped,0
+
+
+Q2. Which of the following statements describe your role? Please check all that apply.
+Answer Choices,Response Percent,Responses
+"A researcher who is within a quantum computing provider, research lab, academic institution or start-up focused on using a variety of techniques to build quantum technology (e.g. optimizers, algorithms, or hardware).",55.44%,367
+"A software developer who is within an organization, responsible for designing, developing, and testing software.",33.53%,222
+An educator who is working to develop the next generation of quantum professionals.,15.26%,101
+A hobbyist who is interested in quantum computing but has no work or academic responsibilities tied to it.,15.26%,101
+A student in the quantum field or otherwise.,31.27%,207
+"A business leader who is interested in safeguarding company vision, making new product discoveries and/or tackling high impact problems that are not easily solvable with classical computing.",10.42%,69
+A program manager who is responsible for identifying opportunities for quantum in their organization and creating teams to explore quantum.,6.65%,44
+Other (please specify),4.08%,27
+,Answered,662
+,Skipped,164
+
+
+Q3. Which of the following statements best describe your background?
+Answer Choices,Response Percent,Responses
+I have a background in quantum research,58.54%,384
+I have a background in classical programming and software technologies,54.88%,360
+I have a background in non-quantum research (I’m a researcher but not in quantum),16.46%,108
+Other (please specify),7.77%,51
+,Answered,656
+,Skipped,170
+
+
+Q4. Which of the following statements best describe your main reason for your involvement in quantum technologies?
+Answer Choices,Response Percent,Responses
+My goal is to use quantum technologies to experiment and advance quantum science and knowledge,54.34%,357
+My goal is to understand what quantum technologies are capable of and prepare for use of quantum technologies,31.35%,206
+My goal is to learn something new and interesting,10.05%,66
+Other (please specify),4.26%,28
+,Answered,657
+,Skipped,169
+
+
+Q5. Which of the following options represent the type of organization(s) you are affiliated with? Please check all that apply.
+Answer Choices,Response Percent,Responses
+No affiliation,8.68%,57
+Academic institution,49.16%,323
+Government,7.61%,50
+Startup,26.03%,171
+Enterprise organization,29.07%,191
+Other (please specify),4.87%,32
+,Answered,657
+,Skipped,169
+
+
+Q6. In what country do you currently live?
+Answer Choices,Response Percent,Responses
+Afghanistan,0.0%,0
+Albania,0.0%,0
+Algeria,0.62%,4
+Andorra,0.0%,0
+Angola,0.0%,0
+Antigua & Deps,0.0%,0
+Argentina,0.0%,0
+Armenia,0.15%,1
+Australia,1.54%,10
+Austria,0.46%,3
+Azerbaijan,0.0%,0
+Bahamas,0.0%,0
+Bahrain,0.0%,0
+Bangladesh,0.15%,1
+Barbados,0.0%,0
+Belarus,0.0%,0
+Belgium,0.0%,0
+Belize,0.0%,0
+Benin,0.15%,1
+Bhutan,0.0%,0
+Bolivia,0.0%,0
+Bosnia Herzegovina,0.0%,0
+Botswana,0.0%,0
+Brazil,1.08%,7
+Brunei,0.0%,0
+Bulgaria,0.15%,1
+Burkina,0.0%,0
+Burundi,0.0%,0
+Cambodia,0.0%,0
+Cameroon,0.46%,3
+Canada,6.01%,39
+Cape Verde,0.0%,0
+Central African Rep,0.0%,0
+Chad,0.0%,0
+Chile,0.0%,0
+China,0.46%,3
+Colombia,0.46%,3
+Comoros,0.0%,0
+Congo,0.0%,0
+Congo {Democratic Rep},0.0%,0
+Costa Rica,0.0%,0
+Croatia,0.0%,0
+Cuba,0.0%,0
+Cyprus,0.0%,0
+Czech Republic,0.31%,2
+Denmark,0.31%,2
+Djibouti,0.0%,0
+Dominica,0.0%,0
+Dominican Republic,0.0%,0
+East Timor,0.0%,0
+Ecuador,0.15%,1
+Egypt,2.62%,17
+El Salvador,0.0%,0
+Equatorial Guinea,0.0%,0
+Eritrea,0.0%,0
+Estonia,0.0%,0
+Ethiopia,0.31%,2
+Fiji,0.0%,0
+Finland,0.46%,3
+France,1.08%,7
+Gabon,0.0%,0
+Gambia,0.0%,0
+Georgia,0.0%,0
+Germany,4.93%,32
+Ghana,0.0%,0
+Greece,0.62%,4
+Grenada,0.0%,0
+Guatemala,0.0%,0
+Guinea,0.0%,0
+Guinea-Bissau,0.0%,0
+Guyana,0.0%,0
+Haiti,0.0%,0
+Honduras,0.0%,0
+Hungary,0.46%,3
+Iceland,0.15%,1
+India,12.02%,78
+Indonesia,0.31%,2
+Iran,0.92%,6
+Iraq,0.15%,1
+Ireland {Republic},0.46%,3
+Israel,1.23%,8
+Italy,3.54%,23
+Ivory Coast,0.0%,0
+Jamaica,0.0%,0
+Japan,2.0%,13
+Jordan,0.0%,0
+Kazakhstan,0.0%,0
+Kenya,0.46%,3
+Kiribati,0.0%,0
+Korea North,0.0%,0
+Korea South,0.62%,4
+Kosovo,0.0%,0
+Kuwait,0.0%,0
+Kyrgyzstan,0.0%,0
+Laos,0.0%,0
+Latvia,0.0%,0
+Lebanon,0.15%,1
+Lesotho,0.0%,0
+Liberia,0.0%,0
+Libya,0.0%,0
+Liechtenstein,0.0%,0
+Lithuania,0.0%,0
+Luxembourg,0.0%,0
+Macedonia,0.0%,0
+Madagascar,0.0%,0
+Malawi,0.0%,0
+Malaysia,0.0%,0
+Maldives,0.0%,0
+Mali,0.0%,0
+Malta,0.0%,0
+Marshall Islands,0.0%,0
+Mauritania,0.0%,0
+Mauritius,0.0%,0
+Mexico,0.92%,6
+Micronesia,0.0%,0
+Moldova,0.0%,0
+Monaco,0.0%,0
+Mongolia,0.0%,0
+Montenegro,0.0%,0
+Morocco,0.31%,2
+Mozambique,0.0%,0
+"Myanmar, {Burma}",0.0%,0
+Namibia,0.0%,0
+Nauru,0.0%,0
+Nepal,0.0%,0
+Netherlands,1.69%,11
+New Zealand,0.0%,0
+Nicaragua,0.0%,0
+Niger,0.0%,0
+Nigeria,0.77%,5
+Norway,0.15%,1
+Oman,0.0%,0
+Pakistan,0.31%,2
+Palau,0.0%,0
+Panama,0.0%,0
+Papua New Guinea,0.0%,0
+Paraguay,0.0%,0
+Peru,0.0%,0
+Philippines,0.15%,1
+Poland,0.62%,4
+Portugal,0.15%,1
+Qatar,0.0%,0
+Romania,0.15%,1
+Russian Federation,0.92%,6
+Rwanda,0.0%,0
+St Kitts & Nevis,0.0%,0
+St Lucia,0.0%,0
+Saint Vincent & the Grenadines,0.0%,0
+Samoa,0.0%,0
+San Marino,0.0%,0
+Sao Tome & Principe,0.0%,0
+Saudi Arabia,0.0%,0
+Senegal,0.0%,0
+Serbia,0.15%,1
+Seychelles,0.0%,0
+Sierra Leone,0.0%,0
+Singapore,0.92%,6
+Slovakia,0.0%,0
+Slovenia,0.15%,1
+Solomon Islands,0.0%,0
+Somalia,0.0%,0
+South Africa,0.62%,4
+South Sudan,0.0%,0
+Spain,3.08%,20
+Sri Lanka,0.0%,0
+Sudan,0.0%,0
+Suriname,0.0%,0
+Swaziland,0.0%,0
+Sweden,0.31%,2
+Switzerland,2.31%,15
+Syria,0.15%,1
+Taiwan,0.62%,4
+Tajikistan,0.0%,0
+Tanzania,0.0%,0
+Thailand,0.15%,1
+Togo,0.15%,1
+Tonga,0.0%,0
+Trinidad & Tobago,0.0%,0
+Tunisia,0.62%,4
+Turkey,1.23%,8
+Turkmenistan,0.0%,0
+Tuvalu,0.0%,0
+Uganda,0.0%,0
+Ukraine,0.15%,1
+United Arab Emirates,0.15%,1
+United Kingdom,9.4%,61
+United States,28.35%,184
+Uruguay,0.0%,0
+Uzbekistan,0.0%,0
+Vanuatu,0.0%,0
+Vatican City,0.0%,0
+Venezuela,0.15%,1
+Vietnam,0.0%,0
+Yemen,0.0%,0
+Zambia,0.0%,0
+Zimbabwe,0.15%,1
+Not in the list (Please specify),0.0%,0
+,Answered,649
+,Skipped,177
+
+
+Q7. Approximately how many people are employed by the organization you are currently affiliated with?
+Answer Choices,Response Percent,Responses
+"Just me - I am a freelancer, sole proprietor, independent, etc.",9.66%,63
+2 to 19 employees,14.26%,93
+20 to 99 employees,9.51%,62
+100 to 999 employees,21.47%,140
+"1,000 or more employees",34.66%,226
+I don't know,10.43%,68
+,Answered,652
+,Skipped,174
+
+
+Q8. Do you get paid for working with Quantum Technology?
+Answer Choices,Response Percent,Responses
+"Yes, as my primary job",53.42%,351
+"Yes, but as a side project",10.2%,67
+No,36.38%,239
+,Answered,657
+,Skipped,169
+
+
+"Q9. If yes, on average, how long did you stay with previous employers before changing companies?"
+Answer Choices,Response Percent,Responses
+Less than 1 year,6.14%,34
+1 -2 years,12.09%,67
+2-3 years,10.47%,58
+3 -4 years,7.58%,42
+4 -5 years,9.39%,52
+More than 5 years,11.73%,65
+"I don’t know, I never changed companies",42.6%,236
+,Answered,554
+,Skipped,272
+
+
+"Q10. If you work in quantum technology, how do you work?"
+Answer Choices,Response Percent,Responses
+Fully remote,20.53%,132
+Hybrid,39.35%,253
+In person,15.86%,102
+I don't work in quantum tech,24.26%,156
+,Answered,643
+,Skipped,183
+
+
+"Q11. What is your current/expected total annual compensation in US dollars (salary, bonuses, and perks, before taxes and deductions)? Please enter a whole number in the box below, without any punctuation. If you prefer not to answer, please leave the box empty."
+Answered,242
+Skipped,584
+
+
+"Q12. Have you ever used any Quantum Software?Quantum Software is any tool that assists with connecting to quantum computing cloud services or research in the fields of quantum computing or quantum physics, as well as study, teach, learn, develop, simulate, or interact with quantum computing concepts."
+Answer Choices,Response Percent,Responses
+Yes,89.95%,582
+No,10.05%,65
+,Answered,647
+,Skipped,179
+
+
+"Q13. When it comes to the Quantum Software project you are most involved in, what best describes your role during the last year?"
+Answer Choices,Response Percent,Responses
+I did not use any quantum software in the last year,9.1%,59
+User: I installed or used the software.,45.83%,297
+Contributor: I submitted an issue or a Pull Request (PR).,18.83%,122
+"Maintainer: I am in charge of reviewing PRs, triaging issues, or/and maintaining documentation.",6.17%,40
+Project Owner: I contribute to defining the project strategy and roadmap. ,20.06%,130
+,Answered,648
+,Skipped,178
+
+
+Q14. Did you use in the last year or are you planning to use in the next year a Cloud Service for quantum software? 
+Answer Choices,Response Percent,Responses
+Yes,78.68%,513
+No,21.32%,139
+,Answered,652
+,Skipped,174
+
+
+Q15. Please select which of the following cloud services for quantum software you are currently using and which services you would like to use in the next year?Please select all that apply.
+Answer Choices,I have been using in the last year,I am planning to use it next year,Total
+Amazon Braket,102,130,204.0
+ColdQuanta,12,43,49.0
+DWave,58,79,118.0
+Google,73,113,162.0
+Honeywell/Quantinuum,39,78,104.0
+IBM Quantum,388,217,434.0
+IonQ,40,64,96.0
+Microsoft's Azure Quantum,75,98,150.0
+qBraid,42,46,77.0
+Quantum Inspire,20,29,44.0
+Rigetti Cloud Services,33,53,74.0
+Strangeworks,21,37,54.0
+Xanadu,76,110,162.0
+Other (please specify),,,13.0
+,,Answered,483
+,,Skipped,343
+
+
+"Q16. When you choose a cloud service, please rate how important each of the following factors is to you. Please choose one option per row."
+Answer Choices,Not at all important,Slightly important,Moderately important,Very important,Extremely important,Total
+"Performance (e.g., efficient job scheduling & available qpu quality)",9,34,102,187,155,481.0
+"Ease of use of the service (e.g., uniform programming interface)",4,29,94,188,172,480.0
+"Well-maintained service (e.g., good service availability )",6,17,62,200,197,479.0
+"Well-integrated in your software stack (e.g., cross-platform compatible or supports integration with OSS projects)",10,46,117,175,133,476.0
+"Well-documented (e.g., has a comprehensive documentation and many examples)",3,14,58,158,253,478.0
+"Bigger/most supportive community (e.g., multi-channel user support, community support in general)",14,58,144,146,121,474.0
+"Price (e.g., free, provides credits or is easiest to pay for)",28,40,102,122,195,479.0
+N/A,0,0,0,0,0,0.0
+Other (please specify),,,,,,8.0
+,,,,,Answered,483
+,,,,,Skipped,343
+
+
+Q17. Did you use in the last year or are you planning to use in the next year a full-stack development platform or a simulator as quantum software?
+Answer Choices,Response Percent,Responses
+Yes,79.3%,498
+No,20.7%,130
+,Answered,628
+,Skipped,198
+
+
+Q18. Please select which of the following full-stack development platforms and simulators you are currently using or would like to use in the future.Please select all that apply.
+Answer Choices,I have been using in the last year,I am planning to use it next year,Total
+amazon-braket-sdk-python,77,99,154.0
+Cirq,138,108,196.0
+dwave-ocean-sdk,44,54,82.0
+OpenQL,2,27,28.0
+PennyLane,136,116,193.0
+ProjectQ,13,23,33.0
+pyQuil,37,43,66.0
+Qiskit,376,215,409.0
+QuTiP-qip,64,57,92.0
+Q#,40,53,81.0
+Silq,9,32,41.0
+Staq,7,17,22.0
+Strawberry Fields,50,72,103.0
+Tequila,7,20,25.0
+t|ket>,68,76,115.0
+Yao.jl,12,37,45.0
+XaCC,8,29,32.0
+Intel Quantum Simulator,14,39,48.0
+DDSIM,5,21,24.0
+Liqui|>,2,15,17.0
+QCGPU,4,23,25.0
+CQuIC/qcircuit,8,26,33.0
+QWIRE,4,22,23.0
+Qibo,9,21,28.0
+Qiskit Aer,234,142,256.0
+Qrack,6,24,28.0
+QuEST-Kit/QuEST,8,23,27.0
+weinbe58/QuSpin,3,16,17.0
+quantastica/quantum-circuit,9,18,25.0
+stewdio/q.js (Quantum JavaScript),2,17,19.0
+quil-lang/qvm,9,18,22.0
+softwareQinc/qpp (Q++),1,18,19.0
+QuantumUtils/quantum-utils-mathematica,5,24,28.0
+corbett/QuantumComputing (Quintuplet),4,20,24.0
+quipper-language,2,14,16.0
+Quirk,42,34,60.0
+cuQuantum,29,50,70.0
+Other (please specify),,,27.0
+,,Answered,467
+,,Skipped,359
+
+
+"Q19. When you choose a full-stack development platform and simulator, please rate how important each of the following factors is to you."
+Answer Choices,Not at all important,Slightly important,Moderately important,Very important,Extremely important,Total
+"Performance (e.g., efficient tool)",7,20,92,178,160,457.0
+Ease of use of the tool,0,16,81,185,176,458.0
+"Well-maintained project (e.g., frequent releases)",3,21,71,202,161,458.0
+"Well-integrated in your software stack & with hardware (e.g., cross-platform compatible, simple use with hardware)",7,26,94,181,149,457.0
+"Well-documented (e.g., has a comprehensive documentation and many examples)",2,8,43,150,254,457.0
+"Bigger/most supportive community (e.g., multi-channel user support, community events, friendly on github)",8,44,128,152,122,454.0
+Other (please specify),,,,,,4.0
+,,,,,Answered,461
+,,,,,Skipped,365
+
+
+Q20. Did you use in the last year or are you planning to use in the next year software for applications and tools as quantum software?
+Answer Choices,Response Percent,Responses
+Yes,68.44%,412
+No,31.56%,190
+,Answered,602
+,Skipped,224
+
+
+Q21. Please select which of the following software for applications and tools you are currently using as quantum software and which software you would like to use in the next year.  Please select all that apply.
+Answer Choices,I have been using in the last year,I am planning to use it next year,Total
+epiqc/ScaffCC,7,17,23.0
+AgnostiqHQ/covalent,13,31,38.0
+lanl/qmasm,4,18,22.0
+unitaryfund/mitiq,47,71,94.0
+Quantomatic/pyzx,22,33,48.0
+openqasm/openqasm,90,77,127.0
+Qiskit/qiskit-nature,125,103,176.0
+Qiskit/qiskit-optimization,149,135,214.0
+Qiskit/qiskit-finance,84,74,127.0
+Qiskit/qiskit-machine-learning,143,136,208.0
+PennyLaneAI/qml,101,90,146.0
+tqsd/QuNetSim,6,20,23.0
+SoftwareQuTech/SimulaQron,6,17,21.0
+vprusso/toqito,3,17,19.0
+tensorflow/quantum,70,110,152.0
+quantumlib/Stim,18,27,38.0
+zapatacomputing/orqviz,7,32,35.0
+quantumlib/OpenFermion,40,37,62.0
+NetKet/NetKet,8,27,33.0
+qir-alliance/qcor,10,27,32.0
+boschmitt/tweedledum,7,22,26.0
+N/A,0,0,0.0
+Other (please specify),,,29.0
+,,Answered,375
+,,Skipped,451
+
+
+"Q22. When you choose a software for applications and tools, please rate how important each of the following factors is to you."
+Answer Choices,Not at all important,Slightly important,Moderately important,Very important,Extremely important,Total
+"Performance (e.g., efficient tool)",4,15,70,154,132,375.0
+Ease of use of the tool,2,11,68,155,139,375.0
+"Well-maintained project (e.g., frequent releases)",1,19,66,171,118,375.0
+"Well-integrated in your software stack & with hardware (e.g., cross-platform compatible or simple use with hardware )",3,18,79,150,123,373.0
+"Well-documented (e.g., has a comprehensive documentation and many examples)",3,6,34,126,206,375.0
+"Bigger/most supportive community (e.g., multi-channel user support, community events, friendly on github)",8,36,96,139,96,375.0
+Other (please specify),,,,,,1.0
+,,,,,Answered,378
+,,,,,Skipped,448
+
+
+"Q23. For the technologies that you would like to use but are not currently using, what are the main reasons for not currently using them?"
+Answer Choices,Response Percent,Responses
+Price or other economical reason,43.98%,223
+Tool does not exist / has not been implemented,37.67%,191
+Technology is poorly documented or it is hard to find tutorials and examples,42.01%,213
+"Technology is incompatible with current stack, e.g. incompatible language, license, or interface.",29.39%,149
+Other (please specify),17.16%,87
+,Answered,507
+,Skipped,319
+
+
+Q24. Do you contribute code to quantum OSS projects (can be collaborative or personal projects)?
+Answer Choices,Response Percent,Responses
+Yes,57.53%,317
+No,42.47%,234
+,Answered,551
+,Skipped,275
+
+
+Q25. Are your contributions to quantum OSS part of your scientific research in the quantum field?
+Answer Choices,Response Percent,Responses
+Yes,44.69%,244
+No,55.31%,302
+,Answered,546
+,Skipped,280
+
+
+Q26. Please select the type of quantum computing research you are performing. Please check all that apply.
+Answer Choices,Response Percent,Responses
+None of the above,8.13%,44
+Application development (development of software packages or adaption of algorithms for specific usecases/industries),39.74%,215
+Algorithm development (developmentcmathematics and algorithms. This includes QML and optimization),40.3%,218
+Circuit development & optimization (how to best implement an algorithm on the quantum computer),33.83%,183
+Error correction,13.12%,71
+Error mitigation,15.53%,84
+Quantum simulation/Physics,33.09%,179
+Qubit characterization,12.01%,65
+Hardware development,9.98%,54
+"Software Engineering (such as the development, test and verification, of software used to operate a quantum computer)",29.39%,159
+Quantum Information Theory,26.25%,142
+Fundamental Physics,16.82%,91
+Other (please specify),5.36%,29
+,Answered,541
+,Skipped,285
+
+
+Q27. Have you co-authored a research paper based on the work with open-source software?
+Answer Choices,Response Percent,Responses
+Yes,39.26%,212
+No,60.74%,328
+,Answered,540
+,Skipped,286
+
+
+Q28. Which programming languages do you use in developing quantum software? Please select all that apply.
+Answer Choices,Response Percent,Responses
+Python,94.1%,510
+Julia,9.59%,52
+C/C++,25.83%,140
+Q#,5.35%,29
+Lisp,1.48%,8
+MATLAB,9.41%,51
+Mathematica,10.33%,56
+Java,2.95%,16
+Javascript,5.9%,32
+Rust,7.38%,40
+Go,1.11%,6
+"Other (please, use comma to separate if more than one)",4.8%,26
+,Answered,542
+,Skipped,284
+
+
+Q29. Which of the below workflows do you use in developing quantum software? Please select all that apply.
+Answer Choices,Response Percent,Responses
+An integrated development environment (IDE),64.04%,349
+Command line or Terminal,52.11%,284
+Jupyter Notebooks or other notebooks,77.8%,424
+Other (please specify),4.04%,22
+,Answered,545
+,Skipped,281
+
+
+"Q30. How welcoming do you feel the quantum software community is? The quantum software community includes the people and structures, both online and off-line, of professionals, students and volunteers involved in developing software projects for quantum science and quantum technology."
+Answer Choices,Response Percent,Responses
+Very welcoming,56.3%,304
+Somewhat welcoming,27.78%,150
+Neither welcoming nor unwelcoming,7.41%,40
+Somewhat unwelcoming,2.22%,12
+Very unwelcoming,0.56%,3
+Do not know,5.74%,31
+,Answered,540
+,Skipped,286
+
+
+"Q31. In your opinion, what is the impact of open source software on the quantum software community?"
+Answer Choices,Response Percent,Responses
+Very positive,77.96%,421
+Somewhat positive,16.3%,88
+Neither positive nor negative,1.3%,7
+Somewhat negative,0.37%,2
+Very negative,0.0%,0
+Do not know,4.07%,22
+,Answered,540
+,Skipped,286
+
+
+"Q32. When it comes to developing quantum software, where do you go for answers or information?"
+Answer Choices,Response Percent,Responses
+Project documentation or website,84.2%,453
+"Project repository (GitHub, GitLab) or code base",73.98%,398
+Quantum Computing Stack Exchange,45.72%,246
+Stack Overflow,45.35%,244
+Discord,23.23%,125
+Reddit,4.46%,24
+Youtube,28.44%,153
+Slack,32.16%,173
+"Other Project Forum (eg. Discourse, Google forum)",8.36%,45
+"Other (please specify, separating by commas)",4.28%,23
+,Answered,538
+,Skipped,288
+
+
+Q33. Which of the following types of resources/ engagements do you find helpful for your learning or contributing to quantum open source projects? Please select all that apply.
+Answer Choices,Response Percent,Responses
+"Hackathons (eg. QHack, Qiskit Camps, Big Quantum Hackathon by Quant X , unitaryHACK, …)",49.69%,242
+"Mentorship programs (eg. QOSF mentorships, Unitary Fund Microgrants, Qiskit Advocate Mentorship Program, individual/private mentoring …)",42.51%,207
+"Certificate or degrees (eg. IBM Qiskit Developer Certificate, MITx Quantum, QWorld Certificate, …)",39.63%,193
+"Participative courses (Courses, in person or remote, where you have to actively participate. eg. Qiskit Global Summer School, Qubit x Qubit Introduction Course)",49.69%,242
+"Digital education text resources (eg. Qiskit Textbook, OSS Project tutorials and documentation, etc.)",61.81%,301
+"Video resources (eg. YouTube explanations, QWorld talks, Qiskit seminars, QHack videos, etc.)",66.53%,324
+Other (please specify),4.31%,21
+,Answered,487
+,Skipped,339
+
+
+Q34. Is there something you'd like to say about the quantum OSS community that you think is important feedback?
+Answered,62
+Skipped,764
+
+
