@@ -1,12 +1,14 @@
 # Quantum Open Source Software Survey
 Repository with aggregated and anonymized data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey.
 
+The survey has been announced on the [Unitary Fund website](https://unitary.fund/posts/2022_survey.html).
 The surveys were available at the following URLs:
 
 - https://www.surveymonkey.com/r/qoss
 - https://www.surveymonkey.com/r/qoss_diversity
 
 ## 2022 Results
+The results have been announced on the [Unitary Fund website](https://unitary.fund/posts/2022_survey_results.html).
 The folder [`2022/QOSS software`](./2022/QOSS%20software/) contains results of the survey for the main software survey, with aggregated data in xlsx, csv and pdf format.
 
 The folder [`2022`](./2022/) also contains a pdf version of the slides presenting the results, [`QOSS & D&I Survey Results - Slides.pdf`](2022/QOSS%20&%20D&I%20Survey%20Results%20-%20Slides.pdf).
