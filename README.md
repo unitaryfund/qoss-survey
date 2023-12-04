@@ -10,6 +10,7 @@ The surveys were available at the following URLs:
 The folder [`2023`](./2023/) contains results of the survey for the 2023 survey (which includes main survey questions and diversity), with aggregated data in xlsx, csv format.
 
 ## 2022 Results
+- Blog post: https://unitary.fund/posts/2022_survey_results/
 - https://www.surveymonkey.com/r/qoss
 - https://www.surveymonkey.com/r/qoss_diversity
 
