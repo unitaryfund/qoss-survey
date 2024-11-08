@@ -3,6 +3,10 @@ Repository with aggregated and anonymized data from the **Quantum Open Source So
 
 The surveys were available at the following URLs:
 
+## 2024 Results
+- Blog Post: TBD
+- Website: TBD
+
 ## 2023 Results
 - Blog post: https://unitary.fund/posts/2023_survey_results/
 - Website: https://unitaryfund.github.io/survey-website/
@@ -21,7 +25,7 @@ The folder [`2022`](./2022/) also contains a pdf version of the slides presentin
 ## Methodology
 The quantum OSS projects listed in the software survey have been chosen among those with >50 stars on Github/GitLab included in the awesome-quantum-software list and other lists, excluding software focusing on tutorials, cryptography, experiments. The software projects and platforms have been divided in three categories: cloud services; software for full-stack development and simulator; application tools.
 
-A draft of the survey has been circulated among Unitary Fund advisory board, board, program members and partners for feedback. The survey has been open  Sept. 27 – Oct. 29, 2023. The data is stored at github.com/unitaryfund/qoss-survey.
+A draft of the survey has been circulated among Unitary Fund advisory board, board, program members and partners for feedback. The survey has been open  Sept. 16 – Oct. 31, 2024. The data for 2023 is stored at github.com/unitaryfund/qoss-survey.
 
 Unitary Fund circulated the surveys on its social media platforms (Discord, Twitter, LinkedIn, UF blog) and contacting major blogs (QC Report, Qiskit blog, PennyLane blog, etc.), newsletters (UF mailing list, QuTiP mailing list, academic networks, etc.), UF members, supporters and partners.
 
