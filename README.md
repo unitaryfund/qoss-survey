@@ -7,6 +7,8 @@ The surveys were available at the following URLs:
 - Blog Post: TBD
 - Website: TBD
 
+The folder [`2024`](./2024/) contains results of the survey for the 2024 survey (which includes main survey questions and diversity), with aggregated data in xlsx, csv format.
+
 ## 2023 Results
 - Blog post: https://unitary.fund/posts/2023_survey_results/
 - Website: https://unitaryfund.github.io/survey-website/
